@@ -5,5 +5,3 @@ CSE undergrad actively learning to build AI agents | Python | LLM Applications |
 
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=python,java,git,github,linux&theme=dark)]
-
-
