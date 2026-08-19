@@ -9,14 +9,12 @@
 ### 🚀 A Passionate CS Student & Agentic AI Builder from India 🇮🇳
 
 🌱 I'm currently learning **FastAPI, Docker, PostgreSQL and Multi-Agent Systems**
-- 📚 Parallel tracks: **Agentic AI** · **Backend Engineering** · **DSA in C++**
-
+📚 Parallel tracks: **Agentic AI** · **Backend Engineering** · **DSA in C++**
 🎯 My goal is to **break into Big Tech and work on Agentic AI systems**
-
-💬 Ask me about **Python, Agentic AI, LLM Architectures... or anything [here](https://github.com/recxcoder/recxcoder/issues)**
 
 📝 I document my build journey publicly on **[LinkedIn](https://linkedin.com/in/shivamvishwakarma2006) · [X](https://x.com/recxcoder) · [Instagram](https://instagram.com/recxcoder)**
 
+<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your.shivam476529@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamvishwakarma2006)
@@ -38,22 +36,19 @@
 
 ---
 
-## 🐍 My Contributions 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recxcoder/recxcoder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recxcoder/recxcoder/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recxcoder/recxcoder/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ## ⚡ Stats ⚡
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recxcoder&count_private=true&theme=react&border_radius=10)](https://github.com/recxcoder)
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-recxcoder.vercel.app/?user=recxcoder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=recxcoder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github.com/recxcoder)
+  <img width=390 src="https://github-readme-stats-recxcoder.vercel.app/api?username=recxcoder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recxcoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/recxcoder)
+  <img width=325 align="center" src="https://github-readme-stats-recxcoder.vercel.app/api/top-langs/?username=recxcoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
 
 ---
