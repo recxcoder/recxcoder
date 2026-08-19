@@ -4,10 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/recxcoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamvishwakarma2006)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/recxcoder)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/recxcoder)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=recxcoder.recxcoder&style=flat-square)](https://github.com/recxcoder)
 
 </div>
@@ -16,14 +15,14 @@
 
 ## About Me
 
-I'm a 2nd-year B.Tech CSE student from Lucknow, India — building toward a career in **Agentic AI** while staying broadly strong across software engineering.
+I'm a 2nd-year B.Tech CSE student from Delhi, India — building toward a career in **Agentic AI** while staying broadly strong across software engineering.
 
 I build production-grade AI systems from scratch, document everything publicly, and target a **Big Tech SWE internship for Summer 2027**.
 
 - 🔭 Currently building **Genesis Agent** — an AI research agent in pure Python (no LangChain) using Groq + Llama 3.3 70B
 - ⚙️ Wrapping it as a production FastAPI service with streaming, Postgres, Redis, Docker, and API key auth
 - 📚 Parallel tracks: **Agentic AI** · **Backend Engineering** · **DSA in C++**
-- 🏆 Built **LegalEase** at a hackathon — AI contract red-flag detector with a full RAG pipeline
+- 🏆 Built **LegalEase** MiniProject at collage  — AI contract red-flag detector with a full RAG pipeline
 - ✍️ I write about what I build on LinkedIn, X, and Instagram
 
 ---
@@ -33,11 +32,11 @@ I build production-grade AI systems from scratch, document everything publicly, 
 | Area | Tools |
 |---|---|
 | **Languages** | Python · C++ · Java · C |
-| **AI / LLMs** | Groq · Llama 3.3 70B · LLM-as-a-Judge · RAG · Agentic Workflows |
-| **Backend** | FastAPI · Async Python · REST APIs |
-| **Data & Storage** | PostgreSQL · Redis · SQL |
-| **DevOps & Infra** | Docker · Git · GitHub Actions · Linux (WSL/Ubuntu) |
-| **Tools** | VS Code · DuckDuckGo Search API · ElevenLabs |
+| **AI / LLMs** | Agentic Workflows |
+| **Backend** | FastAPI · Async Python |
+| **Data & Storage** | PostgreSQL · SQL |
+| **DevOps & Infra** | Docker · Git · GitHub Actions · Linux |
+| **Tools** | VS Code · DuckDuckGo Search API |
 
 ---
 
@@ -46,9 +45,9 @@ I build production-grade AI systems from scratch, document everything publicly, 
 ### 🤖 [Genesis Agent](https://github.com/recxcoder/genesis-agent)
 An AI research agent built entirely from scratch in pure Python — no frameworks, no shortcuts.  
 Capabilities: web search, URL browsing, article reading, and LLM-as-a-Judge verification.  
-Benchmarked against Gemini on research tasks. Wrapping into a full FastAPI service with auth + streaming.
+Benchmarked against Gemini on research tasks.
 
-`Python` `Groq` `Llama 3.3 70B` `FastAPI` `Docker` `Redis` `Postgres`
+`Python` `Groq` `Llama 3.3 70B`
 
 ---
 
