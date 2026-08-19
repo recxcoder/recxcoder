@@ -1,86 +1,60 @@
-<div align="center">
+<!-- Visitor Badge -->
+[![](https://visitor-badge.laobi.icu/badge?page_id=recxcoder.recxcoder)](https://github.com/recxcoder)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=6C9EE5&lines=Hi%2C+I'm+Shivam+%F0%9F%91%8B;CS+Student+%26+Agentic+AI+Builder;Building+in+Public+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamvishwakarma2006)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/recxcoder)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/recxcoder)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=recxcoder.recxcoder&style=flat-square)](https://github.com/recxcoder)
-
-</div>
+<!-- Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=6C9EE5&lines=Hi%2C+I'm+Shivam+%F0%9F%91%8B;CS+Student+%26+Agentic+AI+Builder;Building+in+Public+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</h1>
 
 ---
 
-## About Me
+### 🚀 A Passionate CS Student & Agentic AI Builder from India 🇮🇳
 
-I'm a 2nd-year B.Tech CSE student from Delhi, India — building toward a career in **Agentic AI** while staying broadly strong across software engineering.
+🌱 I'm currently learning **FastAPI, Docker, PostgreSQL and Multi-Agent Systems**
 
-I build production-grade AI systems from scratch, document everything publicly, and target a **Big Tech SWE internship for Summer 2027**.
+🎯 My goal is to **break into Big Tech and work on Agentic AI systems**
 
-- 🔭 Currently building **Genesis Agent** — an AI research agent in pure Python (no LangChain) using Groq + Llama 3.3 70B
-- ⚙️ Wrapping it as a production FastAPI service with streaming, Postgres, Redis, Docker, and API key auth
-- 📚 Parallel tracks: **Agentic AI** · **Backend Engineering** · **DSA in C++**
-- 🏆 Built **LegalEase** MiniProject at collage  — AI contract red-flag detector with a full RAG pipeline
-- ✍️ I write about what I build on LinkedIn, X, and Instagram
+💬 Ask me about **Python, Agentic AI, LLM Architectures... or anything [here](https://github.com/recxcoder/recxcoder/issues)**
 
----
+📝 I document my build journey publicly on **[LinkedIn](https://linkedin.com/in/shivamvishwakarma2006) · [X](https://x.com/recxcoder) · [Instagram](https://instagram.com/recxcoder)**
 
-## Tech Stack
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python · C++ · Java · C |
-| **AI / LLMs** | Agentic Workflows |
-| **Backend** | FastAPI · Async Python |
-| **Data & Storage** | PostgreSQL · SQL |
-| **DevOps & Infra** | Docker · Git · GitHub Actions · Linux |
-| **Tools** | VS Code · DuckDuckGo Search API |
+[![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your.shivam476529@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamvishwakarma2006)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/recxcoder)
 
 ---
 
-## Featured Projects
+## ⚒️ Languages · Frameworks · Tools ⚒️
 
-### 🤖 [Genesis Agent](https://github.com/recxcoder/genesis-agent)
-An AI research agent built entirely from scratch in pure Python — no frameworks, no shortcuts.  
-Capabilities: web search, URL browsing, article reading, and LLM-as-a-Judge verification.  
-Benchmarked against Gemini on research tasks.
-
-`Python` `Groq` `Llama 3.3 70B`
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,fastapi,git,github,linux,vscode,postgres)](https://skillicons.dev)
 
 ---
 
-### ⚖️ LegalEase *(MiniProject)*
-AI-powered contract red-flag detector. Accepts legal documents, runs a RAG pipeline to surface risky clauses, and presents a structured risk report.  
-Built in a team setting end-to-end across one hackathon.
+## 🤖 What I'm Building
 
-`Python` `FastAPI` `React` `Groq` `Llama 3.3 70B` `RAG`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recxcoder&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recxcoder&layout=compact&theme=transparent&hide_border=true&hide=HTML&langs_count=6)
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| **[Genesis Agent](https://github.com/recxcoder/genesis-agent)** | AI research agent with web search, URL browsing & LLM-as-a-Judge | Python · Groq · Llama 3.3 70B |
 
 ---
 
-## Currently Working On
+## 🐍 My Contributions 🐍
 
-```text
-DSA            →  C++ 
-Backend        →  FastAPI + SQL, async Python, Docker
-Agentic AI     →  RAG systems → Multi-Agent Orchestration
-Target         →  Big Tech SWE Internship, Summer 2027
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recxcoder/recxcoder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recxcoder/recxcoder/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recxcoder/recxcoder/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-<div align="center">
-  <sub>Building in public · open to collabs and internship opportunities · reach out anytime</sub>
-</div>
+## ⚡ Stats ⚡
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recxcoder&count_private=true&theme=react&border_radius=10)](https://github.com/recxcoder)
+
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=recxcoder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github.com/recxcoder)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recxcoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/recxcoder)
+
+---
