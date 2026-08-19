@@ -1,16 +1,15 @@
-<!-- Visitor Badge -->
-[![](https://visitor-badge.laobi.icu/badge?page_id=recxcoder.recxcoder)](https://github.com/recxcoder)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=recxcoder.recxcoder" />
 
 <!-- Typing SVG -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=6C9EE5&lines=Hi%2C+I'm+Shivam+%F0%9F%91%8B;CS+Student+%26+Agentic+AI+Builder;Building+in+Public+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </h1>
 
----
 
 ### 🚀 A Passionate CS Student & Agentic AI Builder from India 🇮🇳
 
 🌱 I'm currently learning **FastAPI, Docker, PostgreSQL and Multi-Agent Systems**
+- 📚 Parallel tracks: **Agentic AI** · **Backend Engineering** · **DSA in C++**
 
 🎯 My goal is to **break into Big Tech and work on Agentic AI systems**
 
@@ -27,11 +26,11 @@
 
 ## ⚒️ Languages · Frameworks · Tools ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,fastapi,git,github,linux,vscode,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,git,github,linux,vscode)](https://skillicons.dev)
 
 ---
 
-## 🤖 What I'm Building
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
